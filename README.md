@@ -14,6 +14,7 @@ A simple and engaging version of the traditional hangman game.
 * Records Progress
 * Provide Rewards
 * Hints
+* Skip Level
 * Adaptive
 
 ## Tech Used :computer:
