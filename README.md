@@ -9,6 +9,9 @@ A simple and engaging version of the traditional hangman game.
 
 ![](https://github.com/Srishtikumari2002/Guess-Words/blob/main/images/info3.png)
 
+## Demo 🖥️
+----------------------------
+![](https://github.com/Srishtikumari2002/Guess-Words/blob/main/demo.gif)
 ## Features 📝
 ----------------------------
 * Records Progress
